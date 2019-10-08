@@ -5,7 +5,6 @@ Made with Unity 2018.4.0f1
 ```
 -> Open Scene MainScene.unity inside Scenes Folder.
 -> Press Play
-
 ```
 
 ## Calibrationn:
@@ -30,7 +29,6 @@ Made with Unity 2018.4.0f1
    cellsEven - No of cells in even column
    cols - No of columns
    moves - Total no of moves allowed before gameover
-
 ```
 
 ## Features:
@@ -45,7 +43,6 @@ Made with Unity 2018.4.0f1
 - Scoring system (+ Basic UI)
 - Game ends after x moves
 - Basic combo system
-
 ```
 ## About:
 
